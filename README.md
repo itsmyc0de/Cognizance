@@ -1,0 +1,4 @@
+# Cognizance
+
+
+OPEN LISCENCCE FILE TO VIEW THE CODE
