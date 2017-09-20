@@ -1,0 +1,32 @@
+name 
+roll no
+dept 
+mobile 
+event
+ppt,Abstact
+poster/project [abstract]
+mail-id
+
+Technical:
+
+c-degug
+web designing
+poster-[3]
+photoshop
+hardware re-assembly
+
+Fun:
+meme
+pc games[4]
+solo star
+
+non tech:
+photography
+kavithai
+treasure hunt[4]
+painting
+team zappers[4]
+beg or borrow
+
+
+

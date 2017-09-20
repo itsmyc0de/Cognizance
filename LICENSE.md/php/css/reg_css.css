@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0px;
+	color:#FFF;
+	background: url('http://il8.picdn.net/shutterstock/videos/15043543/thumb/1.jpg');
+	background-repeat:inherit;
+	opacity:0.9;
+}
+.fon{
+	font-size:56px;
+	opacity:1;
+	color:#FF0;
+}
+.fon1{
+	font-size:50px;
+	opacity:1;
+	color:#FF0;
+}
+
+.main_box{
+	width:40%;
+	height:auto;
+	margin-left:30%;
+	margin-top:3%;
+	clear:both;
+}
+table{
+	width:100%;
+}
+input[type=text],input[type=email],input[type=file],select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+
+input[type=text]:focus {
+    border: 3px solid #555;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+input[type=submit]:hover{
+    background-color: #0C9;
+    
+}
